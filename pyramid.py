@@ -3,4 +3,4 @@ def pyramid(num):
         print((num-n)*" ", end='')
         print((2*n-1)*"*")
 
-pyramid(6)
+pyramid(2)
